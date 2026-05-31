@@ -9,4 +9,4 @@ cereal
 cocumbers 
 skuma wiki
 egg plants
-walnuts
+ English walnuts
